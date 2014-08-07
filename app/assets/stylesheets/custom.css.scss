@@ -6,11 +6,11 @@ body {
 
 h1, h2 {
 margin-top: 10px;
-margin-bottom: 9.5px;
+margin-bottom: 10px;
 font-size: 50px;
 letter-spacing: -1px;
 line-height: 1.1;
-font-weight: 400;
+font-weight: 300;
 color:#2c3e50;
 }
 
@@ -19,19 +19,23 @@ color:#2c3e50;
 }
 
 #yumsweat_title {
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 50px;
 	color: #2ecc71;
 }
 
 .sign-up {
-	margin-top: 52px;
+	margin-top: 60px;
 	margin-bottom: 0;
 }
 
 .container {
   max-width: 800px;
   margin: 100px auto 36px; 
+}
+
+.container h2 {
+	font-size: 50px;
 }
 
 img {
