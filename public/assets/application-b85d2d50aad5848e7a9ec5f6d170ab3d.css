@@ -1,0 +1,54 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+
+
+ */
+
+body {
+  text-align: center;
+  min-width: 768px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+h1, h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 48px;
+  letter-spacing: -1px;
+  line-height: 1.1;
+  font-weight: 300;
+  color: #2c3e50; }
+
+.bodyweight-title {
+  color: #c0392b; }
+
+#yumsweat_title {
+  font-weight: 300;
+  font-size: 50px;
+  color: #2ecc71; }
+
+.sign-up {
+  margin-top: 60px;
+  margin-bottom: 0; }
+
+.container {
+  max-width: 800px;
+  margin: 100px auto 36px; }
+
+.container h2 {
+  font-size: 50px; }
+
+img {
+  width: 900px;
+  height: auto;
+  position: absolute;
+  clip: rect(0, 900px, 400px, 0);
+  margin-top: 100px;
+  margin-bottom: 0; }
